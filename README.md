@@ -1,13 +1,11 @@
-<p align="center"><img src="./_img/header.svg" alt="The transgender pride flag, with a trail of paw prints across it" width="100%"></p>
-
 In a world that hums a tune I cannot echo, I am a silent cat slipping through unseen alleys. My fur bears muted tales, each mark a shadowed whisper. Cast adrift from familiar confines, I wander the night, meeting fleeting reflections in fellow strays, seeking an end.
 
 <p align="center">
-<a href="https://github-readme-stats-one-bice.vercel.app/api?username=eztakesin&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&bg_color=90,5bcefa,f5a9b8,ffffff,f5a9b8,5bcefa,5bcefa,5bcefa,5bcefa,5bcefa,5bcefa,5bcefa&title_color=1b1a2e&text_color=1b1a2e&icon_color=a52b4c&ring_color=a52b4c&hide_border=true&border_radius=14" target="_blank">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=eztakesin&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&bg_color=90,5bcefa,f5a9b8,ffffff,f5a9b8,5bcefa,5bcefa,5bcefa,5bcefa,5bcefa,5bcefa,5bcefa&title_color=1b1a2e&text_color=1b1a2e&icon_color=a52b4c&ring_color=a52b4c&hide_border=true&border_radius=14" alt="yuzukicat's GitHub stats" height="185px">
+<a href="https://github-readme-stats-one-bice.vercel.app/api?username=eztakesin&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&bg_color=5bcefa&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&hide_border=true&border_radius=14" target="_blank">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=eztakesin&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&bg_color=5bcefa&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&hide_border=true&border_radius=14" alt="yuzukicat's GitHub stats" height="185px">
 </a>
-<a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=eztakesin&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&bg_color=90,5bcefa,f5a9b8,ffffff,f5a9b8,5bcefa,5bcefa,5bcefa,5bcefa,5bcefa&title_color=1b1a2e&text_color=1b1a2e&hide_border=true&border_radius=14">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=eztakesin&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&bg_color=90,5bcefa,f5a9b8,ffffff,f5a9b8,5bcefa,5bcefa,5bcefa,5bcefa,5bcefa&title_color=1b1a2e&text_color=1b1a2e&hide_border=true&border_radius=14" alt="Top Langs" height="185px">
+<a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=eztakesin&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&bg_color=5bcefa&title_color=ffffff&text_color=ffffff&hide_border=true&border_radius=14">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=eztakesin&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&bg_color=5bcefa&title_color=ffffff&text_color=ffffff&hide_border=true&border_radius=14" alt="Top Langs" height="185px">
 </a>
 </p>
 
