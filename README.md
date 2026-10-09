@@ -1,4 +1,4 @@
-In a world that hums a tune I cannot echo, I am a silent cat slipping through unseen alleys. My fur bears muted tales, each mark a shadowed whisper. Cast adrift from familiar confines, I wander the night, meeting fleeting reflections in fellow strays, seeking an end.
+✨ In a world that hums a tune I cannot echo, I am a silent cat slipping through unseen alleys. My fur bears muted tales, each mark a shadowed whisper. Cast adrift from familiar confines, I wander the night, meeting fleeting reflections in fellow strays, seeking an end.
 
 <p align="center">
 <a href="https://github-readme-stats-one-bice.vercel.app/api?username=eztakesin&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&bg_color=5bcefa&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&hide_border=true&border_radius=14" target="_blank">
@@ -10,11 +10,11 @@ In a world that hums a tune I cannot echo, I am a silent cat slipping through un
 </p>
 
 <details>
-<summary><small>Give me some food if you like my projects</small></summary>
+<summary><small>Give me some 🍔 if you like my 📁</small></summary>
 
 <br>
 
-- Your stars and follows are the biggest support to me.
+- Your ⭐ and follows are the biggest support to me.
 - Cryptocurrency: scan a code with your wallet, or copy the address from the box next to it. After pasting, compare the first and last six characters. The same addresses are listed at <https://play.ssf.network/donate>.
 
 <!-- donate:start (written by scripts/gen-donate.mjs of the website's sources: change an address there, never here) -->
